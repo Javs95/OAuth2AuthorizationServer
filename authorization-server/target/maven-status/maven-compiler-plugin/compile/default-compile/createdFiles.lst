@@ -1,0 +1,4 @@
+edu\itk\project\security\AuthorizationServerApplication.class
+edu\itk\project\security\configuration\AuthorizationServerConfiguration.class
+edu\itk\project\security\configuration\LoginConfiguration.class
+edu\itk\project\security\controllers\LoginController.class

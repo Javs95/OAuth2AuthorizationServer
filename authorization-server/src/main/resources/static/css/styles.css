@@ -1,0 +1,67 @@
+html, label, input, button {
+    font-family: 'Outfit', sans-serif;
+}
+
+body {
+    margin: 0;
+
+    background-color: #28374a;
+}
+
+p {
+    text-align: left;
+}
+
+.centered {
+    position: absolute;
+
+    top: 50%;
+    left: 50%;
+
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+}
+
+.main-container {
+    min-width: 341px;
+
+    background-color: white;
+    border-radius: 25px;
+
+    text-align: center;
+
+    width: 460px;
+    height: 300px;
+}
+
+.main-container-header {
+    margin-top: -25px;
+}
+
+.main-container-body-login {
+    margin-top: 20px;
+}
+
+.main-container-body-login-form {
+    width: 350px;
+}
+
+.main-container-body-login-form-icons {
+    margin-right: 3px;
+    margin-bottom: 2px;
+}
+
+@media screen and (max-width: 768px) {
+    .main-container {
+        max-width: 100%;
+        width: 768px;
+
+        border-radius: 0px;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .main-container-body-login-form {
+        width: 300px;
+    }
+}

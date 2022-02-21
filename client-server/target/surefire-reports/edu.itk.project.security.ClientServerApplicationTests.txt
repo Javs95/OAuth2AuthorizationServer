@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: edu.itk.project.security.ClientServerApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.207 s - in edu.itk.project.security.ClientServerApplicationTests

@@ -1,0 +1,5 @@
+edu\itk\project\security\configurations\ClientServerConfiguration.class
+edu\itk\project\security\configurations\LoginConfiguration.class
+edu\itk\project\security\models\Movie.class
+edu\itk\project\security\ClientServerApplication.class
+edu\itk\project\security\controllers\ClientServerController.class

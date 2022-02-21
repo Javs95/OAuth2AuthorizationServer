@@ -1,0 +1,8 @@
+edu\itk\project\security\daos\MovieDAO$1.class
+edu\itk\project\security\models\Movie.class
+edu\itk\project\security\configurations\ResourceServerConfiguration.class
+edu\itk\project\security\utils\MovieMapper.class
+edu\itk\project\security\daos\MovieDAO$2.class
+edu\itk\project\security\controllers\ResourceServerController.class
+edu\itk\project\security\daos\MovieDAO.class
+edu\itk\project\security\ResourceServerApplication.class
