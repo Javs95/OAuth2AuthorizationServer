@@ -5,7 +5,7 @@
 1. Docker Desktop
 
 2. pgAdmin4
- 
+
 ## Setting up the project
 1. **Run 'config-loopback.cmd'** as Administrator.
 
@@ -65,3 +65,9 @@
 4. **DELETE**:
    - **'/movies/delete/{id}'**:
      - ROLE_ADMIN
+
+## Setup and demonstration
+
+The following video shows **how the project should be setup, as well as a brief demonstration of it**.
+
+[![Alt text](https://img.youtube.com/vi/yHmr7AP1U4E/0.jpg)](https://www.youtube.com/watch?v=yHmr7AP1U4E)
